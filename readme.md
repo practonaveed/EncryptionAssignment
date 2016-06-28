@@ -9,7 +9,7 @@ This assignment makes use of AES and RSA encryption strategies to transfer a fil
 4. Reciever on recieving a message cipher and a key cipher uses it's own private key and decrypt the Key cipher to obtain the AES key.
 5. Reciever then uses the key obtained by decryption to decrypt the message cipher.
 
-### Running the Site Locally
+### Running the Algorithm Locally
 
 To run the site locally on your own computer (most helpful for previewing your own changes), you will need to install Jekyll and other dependencies:
 
